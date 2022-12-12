@@ -48,3 +48,18 @@ input, select {
 .address-text p:last-child {
   margin-bottom: 6px
 }
+.card.premium {
+  border: 2px solid #d7ac57;
+  background-color: goldenrod;
+  color: gray;
+}
+.card.standard {
+  border: 2px solid #999;
+  background-color: silver;
+  color: black;
+}
+.card.bronze {
+  border: 2px solid #714740;
+  background-color: rosybrown;
+  color: white;
+}
