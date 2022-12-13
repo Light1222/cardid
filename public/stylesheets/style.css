@@ -2,7 +2,6 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
 label, input {
   display: block;
 }
@@ -16,6 +15,7 @@ input, select {
   flex: 1;
 }
 .label {
+  color: black;
   font-weight:bold;
   margin-right: 8px;
 }
